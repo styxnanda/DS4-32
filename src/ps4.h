@@ -127,7 +127,7 @@ typedef struct {
   ps4_button_t button;
   ps4_status_t status;
   ps4_sensor_t sensor;
-  ps4_touchpad_t touchpad
+  ps4_touchpad_t touchpad;
   uint8_t* latestPacket;
 } ps4_t;
 
